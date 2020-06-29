@@ -1,0 +1,243 @@
+[
+    {
+        "ProductId": 1, 
+        "CategorieId": 1,
+        "Title": "קלאסי", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 39.00, 
+        "Image": "../assets/images/whopper.png"
+    },
+    {
+        "ProductId": 2, 
+        "CategorieId": 1,
+        "Title": "מתוק", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 39.00, 
+        "Image": "../assets/images/whopper.png"
+    },
+    {
+        "ProductId": 3, 
+        "CategorieId": 1,
+        "Title": "חריף אש", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 39.00, 
+        "Image": "../assets/images/whopper.png"
+    },
+    {
+        "ProductId": 4, 
+        "CategorieId": 1,
+        "Title": "בורגר כפול", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 39.00, 
+        "Image": "../assets/images/whopper.png"
+    },
+    {
+        "ProductId": 5, 
+        "CategorieId": 1,
+        "Title": "אנטריקוט", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 39.00, 
+        "Image": "../assets/images/whopper.png"
+    },
+    {
+        "ProductId": 6, 
+        "CategorieId": 1,
+        "Title": "בקטנה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 39.00, 
+        "Image": "../assets/images/whopper.png"
+    },
+    {
+        "ProductId": 7, 
+        "CategorieId": 2,
+        "Title": "קלאסי", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 49.00, 
+        "Image": "../assets/images/burger-meal.jpg"
+    },
+    {
+        "ProductId": 8, 
+        "CategorieId": 2,
+        "Title": "מתוק", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 49.00, 
+        "Image": "../assets/images/burger-meal.jpg"
+    },
+    {
+        "ProductId": 9, 
+        "CategorieId": 2,
+        "Title": "חריף אש", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 49.00, 
+        "Image": "../assets/images/burger-meal.jpg"
+    },
+    {
+        "ProductId": 10, 
+        "CategorieId": 2,
+        "Title": "בורגר כפול", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 49.00, 
+        "Image": "../assets/images/burger-meal.jpg"
+    },
+    {
+        "ProductId": 11, 
+        "CategorieId": 2,
+        "Title": "אנטריקוט", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 49.00, 
+        "Image": "../assets/images/burger-meal.jpg"
+    },
+    {
+        "ProductId": 12, 
+        "CategorieId": 2,
+        "Title": "בקטנה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 49.00, 
+        "Image": "../assets/images/burger-meal.jpg"
+    },
+    {
+        "ProductId": 13, 
+        "CategorieId": 3,
+        "Title": "צ'יפס", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 12.00, 
+        "Image": "../assets/images/potato-fries.jpg"
+    },
+    {
+        "ProductId": 14, 
+        "CategorieId": 3,
+        "Title": "טבעות בצל", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 12.00, 
+        "Image": "../assets/images/potato-fries.jpg"
+    },
+    {
+        "ProductId": 15, 
+        "CategorieId": 3,
+        "Title": "אפוי", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 12.00, 
+        "Image": "../assets/images/potato-fries.jpg"
+    },
+    {
+        "ProductId": 16, 
+        "CategorieId": 3,
+        "Title": "קומבינה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 12.00, 
+        "Image": "../assets/images/potato-fries.jpg"
+    },
+    {
+        "ProductId": 17, 
+        "CategorieId": 3,
+        "Title": "סלט בריא", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 12.00, 
+        "Image": "../assets/images/potato-fries.jpg"
+    },
+    {
+        "ProductId": 18, 
+        "CategorieId": 3,
+        "Title": "מנת ילדים", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 12.00, 
+        "Image": "../assets/images/potato-fries.jpg"
+    },
+    {
+        "ProductId": 19, 
+        "CategorieId": 4,
+        "Title": "קוקה קולה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 10.00, 
+        "Image": "../assets/images/coca-cola.jpg"
+    },
+    {
+        "ProductId": 20, 
+        "CategorieId": 4,
+        "Title": "פנטה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 10.00, 
+        "Image": "../assets/images/coca-cola.jpg"
+    },
+    {
+        "ProductId": 21, 
+        "CategorieId": 4,
+        "Title": "אנרג'י", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 10.00, 
+        "Image": "../assets/images/coca-cola.jpg"
+    },
+    {
+        "ProductId": 22, 
+        "CategorieId": 4,
+        "Title": "רדבול", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 10.00, 
+        "Image": "../assets/images/coca-cola.jpg"
+    },
+    {
+        "ProductId": 23, 
+        "CategorieId": 4,
+        "Title": "פפסי", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 10.00, 
+        "Image": "../assets/images/coca-cola.jpg"
+    },
+    {
+        "ProductId": 24, 
+        "CategorieId": 4,
+        "Title": "ספרייט", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 10.00, 
+        "Image": "../assets/images/coca-cola.jpg"
+    },
+    {
+        "ProductId": 25, 
+        "CategorieId": 5,
+        "Title": "סופלה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 18.00, 
+        "Image": "../assets/images/cake.jpg"
+    },
+    {
+        "ProductId": 26, 
+        "CategorieId": 5,
+        "Title": "סופלה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 18.00, 
+        "Image": "../assets/images/cake.jpg"
+    },
+    {
+        "ProductId": 27, 
+        "CategorieId": 5,
+        "Title": "סופלה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 18.00, 
+        "Image": "../assets/images/cake.jpg"
+    },
+    {
+        "ProductId": 28, 
+        "CategorieId": 5,
+        "Title": "סופלה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 18.00, 
+        "Image": "../assets/images/cake.jpg"
+    },
+    {
+        "ProductId": 29, 
+        "CategorieId": 5,
+        "Title": "סופלה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 18.00, 
+        "Image": "../assets/images/cake.jpg"
+    },
+    {
+        "ProductId": 30, 
+        "CategorieId": 5,
+        "Title": "סופלה", 
+        "Description": "משהו טעים בקטע משוגע עף לך הפוני, חמוצים, עגבניות ומלא רוטב", 
+        "Price": 18.00, 
+        "Image": "../assets/images/cake.jpg"
+    }
+]
+

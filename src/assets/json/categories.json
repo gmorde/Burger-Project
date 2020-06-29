@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1, 
+        "Title": "בורגרים", 
+        "Icon": "../assets/images/burgers.png", 
+        "Href": "" 
+    },
+    {
+        "Id": 2, 
+        "Title": "עיסקיות", 
+        "Icon": "../assets/images/meals.png", 
+        "Href": "" 
+    },
+    {
+        "Id": 3, 
+        "Title": "תוספות", 
+        "Icon": "../assets/images/fries.png", 
+        "Href": "" 
+    },
+    {
+        "Id": 4, 
+        "Title": "שתיה", 
+        "Icon": "../assets/images/drinks.png", 
+        "Href": "" 
+    },
+    {
+        "Id": 5, 
+        "Title": "קינוחים", 
+        "Icon": "../assets/images/desserts.png", 
+        "Href": "" 
+    }
+]

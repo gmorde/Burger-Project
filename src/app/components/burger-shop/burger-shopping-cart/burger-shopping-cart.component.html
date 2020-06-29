@@ -1,0 +1,75 @@
+<div class="backdrop" 
+    [@showHide]="animationState" 
+    (click)="animationState = 'out'"></div>
+<div class="shopping-cart-wrapper" 
+    [@slideInOut]="animationState">
+	<div class="shopping-cart">
+
+		<div class="shopping-cart-header-wrapper">
+      <div class="shopping-cart-header">
+        <div class="shopping-cart-header-top-wrapper">
+          <div class="shopping-cart-header-top">
+            <span class="material-icons" 
+                 (click)="toggleShoppingCart('out')">arrow_back</span>
+            <p>מה במשלוח</p>
+          </div>
+        </div>
+        <!-- <div class="shopping-cart-header-bottom-wrapper">
+            <div class="shopping-cart-header-bottom">
+              <p>בואו נעשה סדר. מי הזמין מה?</p>
+              <p>יעקב</p>
+            </div>
+        </div> -->
+      </div>
+    </div>
+
+    <div class="shopping-cart-main-wrapper">
+      <div class="shopping-cart-main">
+        
+        <div class="shopping-cart-item-wrapper" 
+            *ngFor="let product of productsCart; index as i">
+          <div class="shopping-cart-item">
+            <div class="shopping-cart-item-right-wrapper">
+              <div class="shopping-cart-item-right">
+                <img src="{{ product.Image }}">
+              </div>
+            </div> 
+            <div class="shopping-cart-item-left-wrapper">
+              <div class="shopping-cart-item-left">
+                  <div class="shopping-cart-item-left-top">
+                    <span class="material-icons" 
+                         (click)="removeFromCart(i)">clear</span>
+                  </div>
+                  <div class="shopping-cart-item-left-main">
+                    <!-- <p class="item-left-title">{{ product.Title }}<span class="item-left-quantity">כפול 2</span></p> -->
+                    <p class="item-left-title">{{ product.Title }}</p>
+                    <p class="item-left-description">{{ product.Description }}</p>
+                    <p class="item-left-price">{{ product.Price }}<span>ש"ח</span></p>
+                  </div>
+                  <div class="shopping-cart-item-left-bottom">
+                    <!-- <div class="item-left-add-name">מי הזמין?</div>                       -->
+                  </div>
+              </div>
+            </div>                        
+          </div>
+        </div>
+
+      </div>      
+    </div>
+
+    <div class="shopping-cart-footer-wrapper">
+      <div class="shopping-cart-footer" 
+          *ngIf="productsCart.length > 0">
+        <p>סה"כ יצא החשבון {{ theTotalIs() }} ש"ח</p>
+        <div class="shopping-cart-payment-button">מעבר לתשלום</div>
+      </div>
+
+      <div class="shopping-cart-footer-empty" 
+          *ngIf="productsCart.length == 0">
+        <p>..עדיין לא נפתחה הזמנה</p>
+        <p>שליח על הברזלים מעשן סיגריה</p>
+      <div>
+    </div>
+    
+	</div>
+</div>
